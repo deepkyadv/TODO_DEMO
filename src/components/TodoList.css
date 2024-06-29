@@ -1,0 +1,14 @@
+.todo-list {
+    padding: 20px;
+  }
+  
+  .todo-list input {
+    margin: 10px;
+    padding: 5px;
+  }
+  
+  .todo-list button {
+    margin: 10px;
+    padding: 5px 10px;
+  }
+  

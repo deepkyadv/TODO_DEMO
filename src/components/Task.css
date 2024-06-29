@@ -1,0 +1,14 @@
+.task {
+    padding: 10px;
+  }
+  
+  .task input, .task select {
+    margin: 5px;
+    padding: 5px;
+  }
+  
+  .task button {
+    margin: 5px;
+    padding: 5px 10px;
+  }
+  
